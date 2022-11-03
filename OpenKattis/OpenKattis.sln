@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divvying Up", "Divvying Up\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shattered Cake", "Shattered Cake\Shattered Cake.csproj", "{4D7CB075-6444-446A-9307-E6AFAC1D30F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1D Frogger", "1D Frogger\1D Frogger.csproj", "{1930401D-E2CD-4F14-89AB-D9F93349E711}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4D7CB075-6444-446A-9307-E6AFAC1D30F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D7CB075-6444-446A-9307-E6AFAC1D30F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D7CB075-6444-446A-9307-E6AFAC1D30F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1930401D-E2CD-4F14-89AB-D9F93349E711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1930401D-E2CD-4F14-89AB-D9F93349E711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1930401D-E2CD-4F14-89AB-D9F93349E711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1930401D-E2CD-4F14-89AB-D9F93349E711}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
